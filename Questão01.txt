@@ -1,0 +1,18 @@
+int INDICE = 13, SOMA = 0, K = 0;
+
+enquanto K < INDICE faça
+
+{
+
+K = K + 1;
+
+SOMA = SOMA + K;
+
+}
+
+imprimir(SOMA);
+
+
+O valor de SOMA é 91, pois o loop(enquanto) vai ser executado até que K chegue ao valor 13. 
+Posteriormente somaratodos os valores. Então o final da variável SOMA será 91, 
+que é a soma dos números de 1 a 13.

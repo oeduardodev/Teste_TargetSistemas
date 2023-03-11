@@ -1,0 +1,17 @@
+Para resolver o problema, consideramos que o ponto de cruzamento dos 
+veículos está a uma distância "x" de Ribeirão Preto e a uma distância 
+"100 - x" de Franca. Utilizando a fórmula de distância = velocidade x tempo, 
+calculamos o tempo que o carro e o caminhão levarão para chegar ao ponto de cruzamento. 
+O tempo do carro é dado por x/110, 
+
+Enquanto o tempo do caminhão é (100-x)/80 + 2*5/60 (acrescentando o tempo dos pedágios).
+
+
+Agora podemos igualar as duas equações para encontrar o valor de x, 
+que representa a distância do ponto de cruzamento até Ribeirão Preto:
+x / 110 = (100 - x) / 80 + 2 * 5 / 60
+
+Resolvendo essa equação, encontramos que x = 52,17 km. Portanto, o 
+ponto de cruzamento está mais próximo de Franca, a uma distância de 47,83 km.
+
+O caminhão está mais próximo de Ribeirão Preto no momento do cruzamento.
